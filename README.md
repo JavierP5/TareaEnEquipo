@@ -31,4 +31,4 @@ Cada uno crea un pull request para que sus clases se unan a las que están en la
 
 ## Resultado
 
-!(C:\Users\nicoX\Pictures\Screenshots\Resultado.png)
+![Resultado](C:\Users\nicoX\Pictures\Screenshots\Resultado.png)
