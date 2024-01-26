@@ -30,3 +30,5 @@ Cada uno, desde el entorno gráfico, suben el proyecto a GitHub
 Cada uno crea un pull request para que sus clases se unan a las que están en la rama master
 
 ## Resultado
+
+!(C:\Users\nicoX\Pictures\Screenshots\Resultado.png)
